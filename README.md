@@ -1,0 +1,1 @@
+Projeto desenvolvido por hobby para monitorar criptoativos e calcular indicadores, disparando alertas e até executando compra e venda conforme estrategias selecionadas.
